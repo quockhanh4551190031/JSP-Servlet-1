@@ -36,3 +36,8 @@
 
 - import social_media into MySQLServer with "social_media" schema
 - change 'root' password to your 'root' password in package util/DatabaseConnection.java
+
+# Bug fixes tutorial
+
+- right click on ***java*** folder (src/main/java) choose **Mark Directory As** -> **Source Root**
+- right click on ***lib*** folder (src/main/webapp/WEB-INF/lib) choose **Add as libary** -> **Ok**
